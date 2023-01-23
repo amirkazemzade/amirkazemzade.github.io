@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "7a86901e78e0c4b90efbf026fb76f602",
+  "assets/AssetManifest.json": "6694be941f9a0b962d8c0cafcc53c934",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/images/200px/agile-logo.png": "af9088890398da6a49f0ca2b17020fda",
@@ -13,9 +13,11 @@ const RESOURCES = {
 "assets/images/200px/github-actions-logo.png": "1499e439ca81e89d104d020c2958f7e5",
 "assets/images/200px/github-logo-black.png": "56ebb23257eb63cd097e7d82a4bd3582",
 "assets/images/200px/github-logo-white.png": "062f73046ecb6f7effd397e4a17ec7ab",
+"assets/images/200px/gmail-logo.png": "de0a82bff286fe83c41ac7badcd884d0",
 "assets/images/200px/jetpack-compose-logo.png": "e8e46ce422f565cec5c5b8520c42d23a",
 "assets/images/200px/kmm-logo.png": "491a6ae8b29369a628d4896350d0b9e3",
 "assets/images/200px/kotlin-logo.png": "04d452be8a86e6daa3bb24392e64c046",
+"assets/images/200px/linked-in-logo.png": "80ba9a73250450a12b94a1d59b405265",
 "assets/images/200px/material-design-logo.png": "cb6951b865d1a01e3cc95925ca7ffa50",
 "assets/images/200px/responsive-logo.png": "9e7da48d4433511a5884e0412c648624",
 "assets/images/200px/ryca-logo.jpg": "91dd52e00e558bbf073daa82265d8362",
@@ -37,9 +39,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "91dbe5a3044d8cc037d5364b8aaea959",
-"/": "91dbe5a3044d8cc037d5364b8aaea959",
-"main.dart.js": "a8771933e9b09eb2bb309b49c4c3599f",
+"index.html": "a16ac6ea8dae18ab61fba7514c801f4d",
+"/": "a16ac6ea8dae18ab61fba7514c801f4d",
+"main.dart.js": "c5971961e351da3ebc3074708210c6b6",
 "manifest.json": "929bf502ad29537f4ce58fc657634c72",
 "version.json": "009c9e65172e010890f7f65fde438006"
 };
